@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+} 
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#authorName {
+    color: orangered;
+}
+
+p {
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
